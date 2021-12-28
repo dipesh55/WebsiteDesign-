@@ -1,39 +1,15 @@
-<a href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/nova-bootstrap-landing-page-template-for-mobile-apps/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/09/Bootstrap-Mobile-App-Landing-Page-Template-Nova.jpg" alt="Nova - Free Bootstrap 4 App Landing Page Template for Developers" /></a>
-
-## Theme Details & Demo
-
-**Demo:** https://themes.3rdwavemedia.com/demo/nova-free/
-
-Nova is a free Bootstrap 4 landing page template made for app developers. Using this template you can get your app’s site online quickly. It’s **perfect for any app marketing campaigns**. The design is focused on **encouraging visitors to download your app**. Built with Bootstrap 4 and Sass, it’s very easy to customise the template to suit your needs.
+This website is a free Bootstrap 4 landing page template made for app developers. Using this template you can get your app’s site online quickly. It’s **perfect for any app marketing campaigns**. The design is focused on **encouraging visitors to download your app**. Built with Bootstrap 4 and Sass, it’s very easy to customise the template to suit your needs.
 
 ## Author & License
 
-This Bootstrap template is made by UX/UI designer [Xiaoying Riley](https://twitter.com/3rdwave_themes) for developers and is 100% FREE under the [Creative Commons Attribution 3.0 License (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/)
+This Bootstrap template is made by UX/UI designer [Dipesh Bhatta] for developers and is 100% FREE under the [Creative Commons Attribution 3.0 License (CC BY 3.0)]
 
-If you'd like to **use the template without the attribution**, you can [buy the **commercial license** via the theme website](https://themes.3rdwavemedia.com/bootstrap-templates/startup/nova-bootstrap-landing-page-template-for-mobile-apps/)
+If you'd like to **use the template without the attribution**, you can buy this website theme by contacted me at dipeshbhatta4@gmail.com.
 
-
-#### Follow Xiaoying
-
-[Twitter](https://twitter.com/3rdwave_themes)
-
-[Facebook](https://www.facebook.com/3rdwavethemes/)
-
-[Instagram](https://www.instagram.com/3rdwave_themes/)
-
-[Medium](https://medium.com/@3rdwave_themes)
-
-[Dribbble](https://dribbble.com/Xiaoying)
-
-
-
+Another Profile [linkedin](https://np.linkedin.com/in/dipeshbhatta4)
 
 ## Latest Version
-**v1.1** - 14 March 2018
-
-[Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/startup/nova-bootstrap-landing-page-template-for-mobile-apps/?target=changelog)
-
-
+**v1.1** - 14 March 2021
 
 ## Features
 
